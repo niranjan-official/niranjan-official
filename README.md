@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Niranjan
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently persuing Btech in Computer Science at Providence College of Enginnering.\
@@ -8,30 +8,29 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at niranjansabarinath1521@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## 🛠 &nbsp;Tech Stack
 
-### 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%230175C2.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/c-%23ED8B00.svg?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23039BE5.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%23DD0031.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%2302569B.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FF9A00.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2331A8FF.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23563D7C.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%2302569B.svg?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23039BE5.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/visualstudiocode-%23FF9A00.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/eclipse-%2331A8FF.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23563D7C.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)\
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)\
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/niranjan-official">
@@ -40,7 +39,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://niranjan-official.github.io/My-Personal-Portfolio"><img src="https://img.shields.io/badge/-niranjan.vercel.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
